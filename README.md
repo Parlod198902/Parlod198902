@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Iván Gamboa
 
-<!--
-**Parlod198902/Parlod198902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Ingeniero en Sistemas Computacionales | Entusiasta del desarrollo de software | Aprendiz constante
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy **Ingeniero en Sistemas Computacionales** con conocimientos en **Java**, **Python** y **desarrollo web**.  
+Me considero un **entusiasta de la programación y la tecnología**, con un fuerte interés en seguir aprendiendo y mejorar cada día.  
+Busco **formarme como profesionista**, adquirir experiencia práctica y dominar nuevas tecnologías para desarrollar soluciones creativas y eficientes.
+
+---
+
+## 🧠 Habilidades Técnicas
+
+- **Lenguajes de Programación:** Java ☕ | Python 🐍 | C/C++ | JavaScript  
+- **Desarrollo Web:** HTML, CSS, JS, Flask, Django  
+- **Bases de Datos:** MySQL, SQLite, MongoDB  
+- **Herramientas:** Git, Linux, Docker, VS Code  
+- **Áreas de interés:**  
+  - Arquitectura de Computadoras 🖥️  
+  - Sistemas Operativos 🧩  
+  - Inteligencia Artificial 🤖  
+  - Desarrollo de Aplicaciones
+  - Redes
+
+---
+
+## 🌐 Encuéntrame en
+
+- 💼 [GitHub](https://github.com/Parlod198902)  
+
+- ✉️ ivan.gamboa@example.com *(puedes dejarlo vacío si prefieres privacidad)*
+
+---
+
+> “El mejor modo de predecir el futuro es programarlo.” – Alan Kay
