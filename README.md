@@ -31,7 +31,6 @@ Busco **formarme como profesionista**, adquirir experiencia práctica y dominar 
 
 - 💼 [GitHub](https://github.com/Parlod198902)  
 
-- ✉️ ivan.gamboa@example.com *(puedes dejarlo vacío si prefieres privacidad)*
 
 ---
 
